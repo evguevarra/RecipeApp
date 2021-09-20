@@ -30,7 +30,8 @@ dependencies:
   cupertino_icons: ^1.0.2
   flutter:
     sdk: flutter
-  html: ^0.15.0
+  http: ^0.13.3
+  
 
 dev_dependencies:
   
